@@ -1,5 +1,9 @@
 # Sales & Revenue Analysis Dashboard
 
+## Internship Task
+
+This project was completed as part of an internship task at Thiranex.
+
 ## About the Project
 
 This project is a Sales and Revenue Analysis Dashboard created using Power BI Desktop.
